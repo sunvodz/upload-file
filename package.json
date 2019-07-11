@@ -1,0 +1,8 @@
+{
+  "name": "upload-file",
+  "version": "0.0.1",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "multer": "^0.1.8"
+  }
+}
